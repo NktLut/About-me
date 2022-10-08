@@ -1,4 +1,4 @@
-# About me
+### About me
 
 My acquaintance with statistics and data processing began at the university in the scientific and educational activities.  
 After graduation in Physical science and getting a job as a Field Apllication Engineer, I was faced with the tasks of product research, forecasting future and analyzing historical sales data.  
@@ -18,3 +18,7 @@ ____
 ![SQL](http://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=006488)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NktLut&langs_count=5&theme=synthwave)]()
+
+
