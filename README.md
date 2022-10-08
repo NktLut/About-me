@@ -8,7 +8,7 @@ At first, I have updated my knowledge of commercial data analysis methods and ap
 At some point, I realized that the current work tasks and the existing infrastructure do not allow me to develop in the direction of my interest.  
 Now I am looking for interesting projects that would allow me to benefit the company and develop as a specialist.
 
-### Skills :
+### Skills
 ____
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -22,3 +22,6 @@ ____
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NktLut&langs_count=5&theme=synthwave)]()  
 
 
+### Contacts
+____
++ [Telegram](https://t.me/nkt_lut)
