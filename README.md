@@ -19,6 +19,6 @@ ____
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NktLut&langs_count=5&theme=synthwave)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NktLut&langs_count=5&theme=synthwave)]()  
 
 
