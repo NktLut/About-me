@@ -1,7 +1,7 @@
 ### About me
 
 My acquaintance with statistics and data processing began at the university in the scientific and educational activities.  
-After graduation in Physical science and getting a job as a Field Apllication Engineer, I was faced with the tasks of product research, forecasting future and analyzing historical sales data.  
+After graduation in Physical science and getting a job as a Field Application Engineer, I was faced with the tasks of product research, forecasting future and analyzing historical sales data.  
 Such tasks led me to study modern approaches in analytics. This area of data processing has begun to interest me more and more.  
 At first, I have updated my knowledge of commercial data analysis methods and approaches. Engaging the automation of reports and some workflow processes, as far as the current infrastructure in the company allowed, at the same time.  
 
