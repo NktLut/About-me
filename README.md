@@ -25,5 +25,20 @@ ____
 ### Contacts
 ____
 + [Email](mail:nikitalut@gmail.com)
-+ [LinkedIn](https://www.linkedin.com/in/nikita-liutetskii-842416252/)
++ [LinkedIn](https://www.linkedin.com/in/nikita-liutetskii-842416252/)   
 + [Telegram](https://t.me/nkt_lut)
+
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nikita-liutetskii-842416252/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="mailto:nikitalut@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+  
+  <a href="https://t.me/nkt_lut">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+</div>
