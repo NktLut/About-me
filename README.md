@@ -5,6 +5,8 @@ After graduation in Physical science and getting a job as a Field Application En
 Such tasks led me to study modern approaches in analytics. This area of data processing has begun to interest me more and more.  
 At first, I have updated my knowledge of commercial data analysis methods and approaches. Engaging the automation of reports and some workflow processes, as far as the current infrastructure in the company allowed, at the same time.  
 
+The common tasks I had dealt with are: the analysis of products within unit, market analysis, unit development plans, search for growth points, sales analysis, reports for top management and strategies for the Sales department.
+
 At some point, I realized that the current work tasks and the existing infrastructure do not allow me to develop in the direction of my interest.  
 Now I am looking for interesting projects that would allow me to benefit the company and develop as a specialist.
 
