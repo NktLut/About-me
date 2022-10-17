@@ -24,6 +24,6 @@ ____
 
 ### Contacts
 ____
-+ [Telegram](https://t.me/nkt_lut)
-+ [Email](nikitalut@gmail.com)
++ [Email](mail:nikitalut@gmail.com)
 + [LinkedIn](https://www.linkedin.com/in/nikita-liutetskii-842416252/)
++ [Telegram](https://t.me/nkt_lut)
